@@ -1,0 +1,6 @@
+C:\Users\admin\Desktop\GitHub_HuyThang\C#_ASP.NETMVC_Post\HDT_BuiHuyThang\HDT_BuiHuyThang\bin\Debug\HDT_BuiHuyThang.exe.config
+C:\Users\admin\Desktop\GitHub_HuyThang\C#_ASP.NETMVC_Post\HDT_BuiHuyThang\HDT_BuiHuyThang\bin\Debug\HDT_BuiHuyThang.exe
+C:\Users\admin\Desktop\GitHub_HuyThang\C#_ASP.NETMVC_Post\HDT_BuiHuyThang\HDT_BuiHuyThang\bin\Debug\HDT_BuiHuyThang.pdb
+C:\Users\admin\Desktop\GitHub_HuyThang\C#_ASP.NETMVC_Post\HDT_BuiHuyThang\HDT_BuiHuyThang\obj\Debug\HDT_BuiHuyThang.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\GitHub_HuyThang\C#_ASP.NETMVC_Post\HDT_BuiHuyThang\HDT_BuiHuyThang\obj\Debug\HDT_BuiHuyThang.exe
+C:\Users\admin\Desktop\GitHub_HuyThang\C#_ASP.NETMVC_Post\HDT_BuiHuyThang\HDT_BuiHuyThang\obj\Debug\HDT_BuiHuyThang.pdb
